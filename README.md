@@ -1,5 +1,5 @@
 # Manic
-This is my first GitHub project
+This is my personal portfolio.
 
 ## About Me ##
 I am a 20 year old, Srilankan male currently a first year following my Bachelor's in Microbiology and Biotechnology (Hons) as an international student of Edinburgh Napier University. I have an interest in statistical tools such as R studio, Excel, etc.
@@ -9,6 +9,7 @@ I am a 20 year old, Srilankan male currently a first year following my Bachelor'
 * Scientific Writing 
 * Type-setting
 * Bioinformatic tools usage
+* Written communication
 
 ## Work Experience ##
 ### IT Guidance Assistant ###
